@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Kontakty_BK</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Name_Surname">Contact info</string>
+    <string name="InfoPhone">InfoPhone</string>
+    <string name="InfoBirthday">InfoBirthday</string>
+    <string name="item_selected_msg">Contact Info</string>
+    <string name="calling_question">Call</string>
+    <string name="dialog_confirm">YES</string>
+    <string name="dialog_cancel">CANCEL</string>
+    <string name="call_dialog_tag">calling</string>
+    <string name="long_click_msg" />
+    <string name="delete_dialog_tag">Delete</string>
+    <string name="delete_question">Delete contact?</string>
+    <string name="delete_cancel_msg">Return to delete the contact?</string>
+    <string name="retry_msg">YES</string>
+    <string name="Contact_Name">Name</string>
+    <string name="Contact_Surname">Surname</string>
+    <string name="Contact_Birthday">Birthday </string>
+    <string name="Contact_Phone">Phone Number</string>
+    <string name="add_contact">ADD</string>
+    <string name="default_name">default_name</string>
+    <string name="default_surname">default_surname</string>
+    <string name="default_birthday" >15.07.1410</string>
+    <string name="default_phone" >123456789</string>
+
+</resources>
